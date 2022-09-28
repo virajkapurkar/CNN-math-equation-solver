@@ -1,2 +1,4 @@
 # CNN-math-equation-solver
-Handwritten mathematical equation solver
+Using deep learning to evaluate a handwritten mathematical expression
+
+
